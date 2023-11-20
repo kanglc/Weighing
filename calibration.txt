@@ -1,0 +1,9 @@
+known weight: 1024g
+readings: Average(428825, 428557) = 428691
+calibration factor = 428691/1024 = 418.644
+
+known weight: 2991g
+readings: Average(1314563, 1315060) = 1314811.5
+calibration factor = 1314811.5/2991 = 439.589
+
+Average(439.589, 418.644) = 429.1165
